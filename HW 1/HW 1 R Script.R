@@ -1,7 +1,14 @@
+# Author:  Ronit Verma #
+# Class: STA 301H #
+# Last Modified 2/12/26 #
+
+
 # Include libraries #
 library(mosaic)
 library(tidyverse)
 
+# The following programs are based on risk.csv, candies.csv, superbowl.csv, and MSFT.csv #
+# These data frames are publically available #
 
 
 # risk.csv Risky Business ggplot #
@@ -147,4 +154,5 @@ ggplot(MSFT) +
 
   
            
+
            
